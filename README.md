@@ -163,8 +163,9 @@
  ---
 
  ### Ресурсы для изучения
- - [Vite Documentation](https:vitejs.dev/)
- - [Material-UI (MUI)](https:mui.com/)
- - [styled-components](https:styled-components.com/)
- - [React TypeScript Cheatsheet](https:react-typescript-cheatsheet.netlify.app/)
- - [LocalStorage API](https:developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+ - [Документация React (на английском)](https://react.dev/)
+ - [Учебник по React и его экосистеме на русском языке](https://reactdev.ru/)
+ - [Видео-курс от UlbiTV](https://www.youtube.com/watch?v=GNrdg3PzpJQ&ab_channel=UlbiTV)
+ - [Видео-курс от Владилена Минина](https://www.youtube.com/watch?v=kz23xxukY5s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)
+ - [Документация styled-components](https://styled-components.com/)
+ - [Документация MUI](https://mui.com/material-ui/all-components/)
