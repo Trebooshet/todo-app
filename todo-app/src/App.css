@@ -1,3 +1,22 @@
+:root {
+  --main-color-dark: #242424;
+  --list-color-dark: #4c514a;
+  --input-color-dark: #0095b6;
+  --item-color-dark: #80daeb;
+  --text-color-dark: black;
+  --main-color-light: #ffffff;
+  --text-color-light: #242424;
+  --main-font: Courier;
+}
+/*Courier, monospace;*/
+body {
+  box-sizing: border-box;
+  background-color: var(--main-color-dark);
+  color: var(--text-color-dark);
+  font-family: var(--main-font), monospace;
+  display: block;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
